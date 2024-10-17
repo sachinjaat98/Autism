@@ -1,5 +1,8 @@
 # Therapist and Child Detection and Tracking
 
+
+![val_batch1_labels](https://github.com/user-attachments/assets/97dc2e39-1ca9-4b01-938d-dcb98f9a9331)
+
 ## Project Overview
 
 This project implements a system for detecting and tracking children with Autism Spectrum Disorder (ASD) and therapists during therapy sessions. The goal is to assign unique IDs to individuals, track them throughout the video, handle re-entries into the frame, and maintain accurate ID assignment even after occlusions or partial visibility.
